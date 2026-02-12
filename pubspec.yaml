@@ -1,10 +1,10 @@
-name: cupid_challenge
+name: treasure_chest
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: ^3.10.8
+  sdk: ^3.10.7
 
 dependencies:
   flutter:
@@ -17,3 +17,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+  - assets/images/love-theme.jpg
+  - assets/images/heart_confetti.jpg
